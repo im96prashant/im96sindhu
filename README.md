@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Prashant Sindhu
 - 👀 I’m interested in Coding and Creating Application .
-- 🌱 I’m currently learning Angular .
+- 🌱 I have decent experience working on Angular.
+- I'm currently learning CakePHP.
 - 📫 How to reach me => prashant.sindhu321@gmail.com
 
 <!---
